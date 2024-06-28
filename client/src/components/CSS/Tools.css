@@ -1,0 +1,27 @@
+.tools{
+
+    width: 40%;
+    margin: 1% auto;
+}
+.tools>*{
+    width: 45%;
+    height: 40px;
+    margin: 0 2%;
+}
+.add{
+    color: blue;
+}
+.add:hover{
+    background-color: blue;
+    color: whitesmoke;
+    border: 2px solid blue;
+}
+
+.restart{
+    color: red;
+}
+.restart:hover{
+    background-color: red;
+    color: whitesmoke;
+    border: 2px solid red;
+}
